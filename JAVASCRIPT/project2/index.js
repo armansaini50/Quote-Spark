@@ -50,7 +50,6 @@ const quote = [
     }
     setInterval(changeColor, 2000);
    
-
  
 
 
