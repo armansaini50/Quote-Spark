@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+#red{
+    background-color: red;
+
+}
+#blue{
+    background-color: blue;
+    
+}
+#green{
+    background-color: green;
+    
+}
+#purple{
+    background-color: purple;
+    
+}
+#aqua{
+    background-color: aqua;
+    
+}
